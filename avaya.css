@@ -1,0 +1,57 @@
+/* .logo{
+    /* background-color:red;
+} */ */
+ /* .logo1{
+    
+ }
+ .logo{
+    background-color: red;
+    width: 10%;
+    height: 20%;
+	
+	transform: skew(12deg);
+    margin-left:-35px;
+
+ }
+
+ .link{
+    list-style: none;
+    display: block;
+    display: flex;
+    justify-content: space-around;
+    width: 45%;
+    position: relative;
+    margin-bottom: 40px;;
+ }
+ .logo1{
+    align-items: center;
+    padding: 20px;
+ } */
+
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ body{
+
+ }
+ .top{
+    background-color: white;
+    color: black;  
+    height: 100vh;
+ }
+ img{
+width: 100px;
+background-color: red;
+height: 60px;
+}
+.logo ul{
+    justify-content: space-between;
+}
+ .logo ul li{
+    list-style: none;
+    display: inline;
+    justify-content: space-between;
+    /* word-spacing: 50%; */
+ }

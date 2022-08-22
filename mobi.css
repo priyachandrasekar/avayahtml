@@ -1,0 +1,491 @@
+@media screen and (max-width: 600px) and (min-width:175px)
+{
+    html,body
+    {
+        overflow-x: hidden;
+        /* width: 100%; */
+    }
+/* .head{
+        height: 100vh;
+    }
+.head .logo .ll .log {
+    width: 61%;
+    height: 4vh;
+    padding-top: 9%;
+    padding-bottom: 0%;
+    padding-left: 13%;
+
+    }
+    .link ul li {
+        font-size: 10px;
+    }
+
+    .head .logo .ll {
+        height: 6vh;
+    width: 38%;
+    background-color: red;
+    }
+    .logo .link{
+        display: none;
+    }
+
+    .head .logo {
+        width: 100%;
+        height: 40px;
+        
+    }
+    .tex1{
+        font-size: 15px;
+    }
+    .btn{
+        display: none;
+    }
+    .icon
+    {
+        display: none;
+    }
+    .sign
+    {
+        display: none;
+    }
+    .search
+    {
+        margin-left: 92px;
+    }
+    .fa fa-search
+    {
+        font-size: 20px;
+    }
+    .head .head2  {
+        display: none;
+    }
+.banner{
+    margin-top: 2%;
+}
+.box .tex1{
+    align-items: center;
+    font-size: 25px;
+    line-height: 39px;
+    font-weight: 700;
+    margin-left: 3%;
+    padding-top: 0%;
+    width: 140%;
+    margin-top: -106%;
+    font-family: 'Noto Sans JP';
+} */
+.head .logo{
+    width: 100%;
+    height: 13vh;
+    display: flex;
+    align-items: center;
+    /* margin-top: 2%; */
+    position: fixed;
+    top: -14px;
+    left: 0;
+    z-index: 5;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.logo .ll{
+    width: 51%;
+    height: 13vh;
+}
+.log{
+    width: -1%;
+    margin-left: -5%;
+}
+.link{
+    display: none;
+}
+.btn{
+    display: none;
+}
+.sign{
+    display: none;
+}
+.icon{
+    display: none;
+}
+.search{
+    margin-left: 5rem;
+    padding-top: -2%;
+    display: flex;
+    width: 16%;
+}
+.fa-search{
+    padding-top: 10%;
+    font-size: 23px;
+}
+.mobilemenu{
+    display: block!important;
+    margin-left: 41%;
+    width: 5rem;
+}
+.box{
+    background-color: white;
+    width: 100%;
+    height: 51vh !important;
+    transform: translateY(-70vh);
+    margin-top: -98%;
+    width: 100%!important;
+}
+.box .tex1{
+    font-size: 31px;
+    margin-top: 65%;
+    font-family: Noto Sans JP;
+    width: 69%;
+    line-height: 1.3;
+}
+.bt .btn1{
+    margin-left: -4%;
+    margin-top: 7%;
+}
+.im2{
+    margin-top: 95%;
+    height: 36vh !important;
+
+}
+.banner{
+    width: 100%;
+    height: 13rem;
+}
+.part1{
+    display: flex;
+    flex-direction: column !important;
+    justify-content: CENTER;
+    align-items: center;
+    padding: 20px 0px;
+    margin-top: 1rem !important;
+    height: 3rem;
+    margin-left: -40% !important;
+}
+.textt{
+    width: 20rem;
+}
+.textt1 p{
+    width: 18rem !important;
+}
+.part1img1 {
+    width: 25rem !important;
+    height: 19rem !important;
+} 
+.part2{
+    display: flex;
+    flex-direction: column !important;
+}
+.part2img2 {
+    width: 24rem !important;
+    height: 19rem !important;
+    margin-left: -59%;
+    margin-top: 46%;
+}
+.tex3 {
+    width: 18rem;
+    margin-left: -61%;
+    margin-top: 65%;
+    line-height: 170% !important;
+}
+.texttt1 p{
+    margin-left: -60%;
+    width: 17rem !important;
+}
+.button2 .butt1 {
+    
+    margin-left: -34%;
+}
+.part3{
+    display: flex;
+    flex-direction: column !important;
+}
+.casstext {
+    width: 21rem;
+    margin-left: -63%
+}
+.caas1 p {
+    
+    width: 17rem;
+    margin-left: -62%;
+}
+.cassbutton .casbut {
+    margin-left: -34%;
+}
+.cassimg1 {
+    width: 24rem !important;
+    height: 19rem !important;
+    margin-left: -59%;
+    margin-top: 14%;
+}
+.part4{
+    display: flex;
+    flex-direction: column !important;
+}
+.part4im
+ {
+    width: 24rem !important;
+    height: 19rem !important;
+    margin-left: -55%;
+    margin-top: -28%;
+ }
+ .part4text1 {
+    margin-top: 64%;
+    margin-left: -7rem;
+    line-height: 38px !important;
+}
+.part4text2 p {
+    font-size: 14px;
+    width: 18rem !important;
+    margin-left: -60%;
+    line-height: 25px;
+}
+.part4button {
+    
+    display: flex;
+    flex-direction: column !important;
+    margin-left: -61% !important;
+}
+.part4button {
+    margin-left: -22%;
+}
+.part4button .part4btn1 {
+    margin-bottom: 3%;
+}
+.part5{
+    display: flex;
+    flex-direction: column !important;
+}
+.ringcen {
+    width: 17rem;
+    margin-left: -105%;
+    margin-top: 8% !important;
+}
+.ringcen1 p {
+    font-size: 15px;
+    font-family: 'Noto Sans JP';
+    width: 18rem;
+    margin-left: -105%;
+}
+.ringbtn .ringbtn1 {
+    width: 13rem !important;
+    margin-left: -47%;
+    text-align: left;
+    padding-left: 5%;
+    font-size: 14px !important;
+}
+.ringimg1 {
+    width: 24rem !important;
+    height: 18rem !important; 
+    margin-left: -6rem !important;
+    object-position: 60% 40%;
+    margin-top: 18%;
+}
+.gridd h3 {
+    font-size: 24px !important;
+    line-height: 28px !important;
+    font-weight: 700;
+    margin-top: 15% !important;
+    width: 19rem;
+    margin-left: 10%;
+}
+.grids{
+    grid-template-columns: auto !important;
+}
+.gridpart3 {
+    margin-left: -34%;
+    margin-top: 12%;
+}
+.stripediv{
+    display: flex;
+    flex-direction: column !important;
+        margin-top: 1rem !important;
+        height: 195vh !important;
+}
+.stipe{
+    width: 20rem;
+    margin-top: -104%;
+}
+.st1 {
+    width: 22rem !important;
+    height: 25px !important;
+    margin-left: -75%;
+}
+hr{
+    margin-top: 50px;;
+}
+.stipetxt {
+    height: 34rem !important;
+    margin-top: -5%;
+    width: 22rem !important;
+    margin-left: -75% !important;
+}
+.stipetxt h2 {
+    margin-left: 8% !important;
+    width: 87% !important;
+    font-size: 36px !important;
+    line-height: 40px !important;
+    margin-top: 5%;
+}
+.stipetxt p {
+    margin-left: 9% !important;
+    width: 74% !important;
+}
+.stip2{
+    margin-top: 40% !important;
+}
+.stip2{
+    display: flex !important;
+    flex-direction: column !important ;
+    margin-top: -13% !important;
+    margin-left: -18rem !important;
+}
+.make1{
+    margin-left: -4rem;
+}
+.arr{
+    margin-left: 10rem !important;
+}
+.st2 {
+    width: 252% !important;
+    height: 29px !important;
+    margin-top: 4px;
+    margin-left: 13rem;
+}
+.stipetxt1 {
+    height: 17rem !important;
+    margin-top: -3% !important;
+    width: 22rem !important;
+    margin-left: 150% !important;
+}
+.stipetxt1 h2 {
+    margin-left: 3% !important;
+    width: 17rem !important;
+    font-family: 'Noto Sans JP';
+    font-size: 25px !important ;
+    line-height: 33px;
+}
+.make2 {
+    height: 4rem;
+    margin-left: 13rem;
+}
+.arr1{
+    margin-left: 11rem !important;
+
+}
+.stipe2 {
+    margin-top: 18rem !important;
+    margin-top: 14rem;
+}
+.st3 {
+    width: 22rem !important;
+    height: 26px !important;
+    margin-top: -6rem;
+    margin-left: 36%;
+}
+.stipe2txt1 {
+    height: 227px !important;
+    background-color: #0A8E9B;
+    margin-top: -1%;
+    padding-top: 4%;
+    width: 22rem !important;
+    margin-left: 13rem !important;
+}
+.stipe2txt1 h2 {
+    margin-left: 3% !important;
+    width: 21rem !important;
+}
+.make3 {
+    margin-left: 13rem !important;
+}
+.arr3 {
+    margin-left: 11rem !important;
+}
+.card-grid{
+    display: grid;
+    grid-template-columns: auto !important;
+}
+.card {
+    width: 100%;
+    height: 259vh !important;
+}
+.gricar{
+    width: 99% !important;
+}
+.gridcard1{
+    width: 125%;
+}
+.footble {
+     width: 100% !important;
+    height: 1rem;
+}
+.gridcard2{
+    width: 125%;
+}
+.footore{
+    width: 100% !important;
+    height: 1rem;
+}
+.gridcard3{
+    width: 125%;
+}
+.footble{
+    width: 100% !important;
+    height: 1rem;
+}
+.footimg {
+    width: 99%;
+}
+.stayconnicon {
+    margin-left: 36% !important;
+    margin-top: 2% !important;
+    color: white;
+}
+.footer {
+    height: 160vh !important;
+
+}
+.footergrid {
+    display: grid !important;
+    grid-template-columns:  auto !important;
+    margin-left: 10% !important;
+}
+.footergridtext1 {
+    margin-top: -254px !important;
+    margin-left: 8%;
+    
+}
+.footergridtext2 {
+    margin-top: -87px !important;
+    margin-left: -3% !important;
+}
+.footergridtext3 {
+    margin-top: 8px !important;
+    margin-left: -2%;
+}
+.footergridtext4 {
+    margin-top: 2px !important;
+    margin-left: -2%;
+}
+.stayconectLogo h5{
+    margin-left: 5rem;
+}
+.foot {
+    height: 32vh !important;
+    display: flex;
+    flex-direction: column !important;
+}
+.foot p{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 4%;
+}
+.foot ul {
+    width: 18rem !important;
+    margin-left: 12% !important;
+    line-height: 268%;
+    text-align: center;
+}
+.footimg1 {
+    width: 24% !important;
+    height: 36% !important;
+    margin-left: 37%;
+}
+}
