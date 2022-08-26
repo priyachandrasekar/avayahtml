@@ -1,5 +1,4 @@
-@media screen and (max-width: 600px) and (min-width:175px)
-{
+@media screen and (max-width: 600px) and (min-width:175px) {
     html,body
     {
         overflow-x: hidden;
@@ -425,6 +424,9 @@ hr{
 }
 .gridcard3{
     width: 125%;
+}
+.watch h4 {
+    margin-left: -40% !important;
 }
 .footble{
     width: 100% !important;
